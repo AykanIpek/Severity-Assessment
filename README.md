@@ -107,8 +107,8 @@ This project applies machine learning techniques to assess inflammation severity
 
 Clone the repository:
 
-git clone https://github.com/your-username/inflammation-severity-assessment.git  
-cd inflammation-severity-assessment  
+git clone https://github.com/AykanIpek/Severity-Assessment.git  
+cd Severity-Assessment  
 
 Install dependencies:
 
@@ -116,7 +116,7 @@ pip install -r requirements.txt
 
 Run the notebook or scripts:
 
-jupyter notebook notebooks/Inflammation_Severity_Assessment.ipynb  
+jupyter notebook notebooks/Inflammation Severity Assessment.ipynb  
 
 ---
 
