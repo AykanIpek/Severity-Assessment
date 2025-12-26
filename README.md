@@ -135,5 +135,5 @@ jupyter notebook notebooks/Inflammation Severity Assessment.ipynb
 
 ---
 
-📧 Author: Aykan Ipek  
+📧 Author: AykanIpek  
 🎓 London South Bank University
