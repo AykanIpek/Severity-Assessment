@@ -7,11 +7,10 @@ This project applies machine learning techniques to assess inflammation severity
 📂 Project Structure
 
 📁 inflammation-severity-assessment  
-│── data/                # Clinical and histopathology feature datasets  
-│── notebooks/           # Jupyter notebooks for EDA, modelling, and evaluation  
-│── src/                 # Python scripts for preprocessing, training, and validation  
-│── results/             # Model outputs, plots, metrics, and figures  
-│── README.md            # Project documentation  
+│── CSI_7_MAL_2526_Data.xlsx/                     # Clinical and histopathology feature datasets  
+│── Inflammation_Severity_Assessment.ipynb/       # Jupyter notebooks for the entire code  
+│── requirements/                                 # Libraries  
+│── README.md                                     # Project documentation  
 
 ---
 
