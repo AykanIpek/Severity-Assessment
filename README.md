@@ -2,17 +2,13 @@
 
 This project applies machine learning techniques to assess inflammation severity from histopathology-derived cellular features. The study focuses on both multi-class severity score prediction and binary inflammation classification, demonstrating a complete medical machine learning pipeline including preprocessing, exploratory data analysis (EDA), imbalance handling, feature selection, model optimisation, and interpretability.
 
----
-
-📂 Project Structure
-
+```text
 📁 inflammation-severity-assessment
-│── CSI_7_MAL_2526_Data.xlsx/              # Clinical and histopathology feature datasets
+│── CSI_7_MAL_2526_Data.xlsx/               # Clinical and histopathology feature datasets
 │── Inflammation_Severity_Assessment.ipynb/ # Jupyter notebooks for the entire code
-│── requirements/                         # Libraries
-│── README.md/                            # Project documentation                                               
-
----
+│── requirements/                          # Libraries
+│── README.md/                             # Project documentation
+```
 
 🔑 Key Stages
 
